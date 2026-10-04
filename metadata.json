@@ -1,0 +1,6 @@
+{
+  "name": "BizAccount ERP & POS",
+  "description": "Professional Business Accounting, Inventory, POS, and ERP Suite with full recalculation, audit logs, and bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
